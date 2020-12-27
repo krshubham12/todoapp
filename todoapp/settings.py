@@ -26,7 +26,7 @@ SECRET_KEY = '#wgr_*6rj_95m-$xo=yw^tcndhht^pw$i040!#9olu3i#=7uv!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://todoapphero.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['todoapphero.herokuapp.com/', '127.0.0.1']
 
 
 # Application definition
