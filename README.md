@@ -9,7 +9,6 @@
 *	CSS
 
 ### Libraries Used:
-*	django
 *	djangorestframework
 
 #### Demo account:
