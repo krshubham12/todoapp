@@ -13,7 +13,7 @@
 *	djangorestframework
 
 #### Demo account:
-**Username**: mrdemo \
-**Password**: abc123
+**Username**: sam \
+**Password**: 123456
 
 App link: https://todoapphero.herokuapp.com/
