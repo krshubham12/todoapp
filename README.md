@@ -5,6 +5,7 @@
 ### Technologies Used:
 * Django
 *	ReactJs
+* Redux
 *	HTML
 *	CSS
 
